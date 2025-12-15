@@ -1,0 +1,57 @@
+{
+    "Mon": [
+        {"ES LAB(IT-112) / ML LAB(IT-207)": "9:30am - 11:30am"},
+        {"10 mins Break": "11:30am - 11:40am"},
+        {"BDA(CS-205)": "11:40am - 12:40pm"},
+        {"ML(CS-205)": "12:40pm - 1:40pm"},
+        {"LUNCH": "1:40pm - 2:15pm"},
+        {"CRT(CS-205)": "2:15pm - 4:15pm"}
+    ],
+    "Tue": [
+        {"ES (CS-205)": "9:30am - 10:30am"},
+        {"CN (CS-205)": "10:30am - 11:30am"},
+        {"10 mins Break": "11:30am - 11:40am"},
+        {"ES LAB(IT-112) / ML LAB(IT-207)": "11:40am - 1:40pm"},
+        {"LUNCH": "1:40pm - 2:15pm"},
+        {"CRT LAB (IT-207)": "2:15pm - 4:15pm"}
+    ],
+    "Wed": [
+        {"OE-I ORT / SSIP / DM (IT-211/IT-207/CS-205)": "9:30am - 10:30am"},
+        {"PE-III CC (CS-205)": "10:30am - 11:30am"},
+        {"10 mins Break": "11:30am - 11:40am"},
+        {"ML (IT-207)": "11:40am - 12:40pm"},
+        {"CN (IT-207)": "12:40pm - 1:40pm"},
+        {"LUNCH": "1:40pm - 2:15pm"},
+        {"BDA (CS-205)": "2:15pm - 3:15pm"},
+        {"IC (CS-205)": "3:15pm - 4:15pm"}
+    ],
+    "Thu": [
+       { "CRT (CS-205)": "9:30am - 11:30am"},
+       { "10 mins Break": "11:30am - 11:40am"},
+       { "MP-II (IT-207)": "11:40am - 1:40pm"},
+        {"LUNCH": "1:40pm - 2:15pm"},
+       { "OE-I ORT / SSIP / DM (IT-211/IT-207/CS-205)": "2:15pm - 3:15pm"},
+       { "PE-III CC (CS-205)": "3:15pm - 4:15pm"}
+    ],
+    "Fri": [
+       { "IC (CS-205)": "9:30am - 10:30am"},
+       { "ES (CS-205)": "10:30am - 11:30am"},
+       { "10 mins Break": "11:30am - 11:40am"},
+       { "DEVOPS LAB (IT-207)": "11:40am - 1:40pm"},
+       { "LUNCH": "1:40pm - 2:15pm"},
+       { "OE-I ORT / SSIP / DM (IT-211/IT-207/CS-205)": "2:15pm - 3:15pm"},
+       { "PE-III CC (CS-205)": "3:15pm - 4:15pm"}
+    ],
+    "Sat": [
+        {"CN (CS-205)": "9:30am - 10:30am"},
+       { "ML (CS-205)": "10:30am - 11:30am"},
+        {"10 mins Break": "11:30am - 11:40am"},
+       { "DEVOPS LAB (IT-207)": "11:40am - 1:40pm"},
+       { "LUNCH": "1:40pm - 2:15pm"},
+       { "BDA (CS-205)": "2:15pm - 3:15pm"},
+       { "ES (CS-205)": "3:15pm - 4:15pm"}
+    ],
+    "Sun": [
+       { "Sunday": "Sunday"}
+    ]
+}
