@@ -1,57 +1,59 @@
 {
     "Mon": [
-        {"ES LAB(IT-112) / ML LAB(IT-207)": "9:30am - 11:30am"},
+        {"NS (Dr.CHS) (CE-IT-213)": "9:30am - 10:30am"},
+        {"IOT (CHS) (CE-IT-213)": "10:30am - 11:30am"},
         {"10 mins Break": "11:30am - 11:40am"},
-        {"BDA(CS-205)": "11:40am - 12:40pm"},
-        {"ML(CS-205)": "12:40pm - 1:40pm"},
+        {"IOT LAB(CHS,SM)(CE-IT-18) / CN&NS LAB(Dr.CHS,DK) (CE-IT-211)": "11:40am - 1:40pm"},
         {"LUNCH": "1:40pm - 2:15pm"},
-        {"CRT(CS-205)": "2:15pm - 4:15pm"}
+        {"OE-II (Dr.MKR) (CE-IT-213)": "2:15pm - 3:15pm"},
+        {"OE-III (CE-IT-213)": "3:15pm - 4:15pm"}
     ],
     "Tue": [
-        {"ES (CS-205)": "9:30am - 10:30am"},
-        {"CN (CS-205)": "10:30am - 11:30am"},
+        {"OE-III (CE-IT-201)": "9:30am - 10:30am"},
+        {"PE-V (Dr.BV,DK) (212, 201)": "10:30am - 11:30am"},
         {"10 mins Break": "11:30am - 11:40am"},
-        {"ES LAB(IT-112) / ML LAB(IT-207)": "11:40am - 1:40pm"},
+        {"PE-VI (NNL,PSS) (CE-IT-203,201)": "11:40am - 12:40pm"},
+        {"PE-IV (KRM,MBD) (CE-IT-201,203)": "12:40pm - 1:40pm"},
         {"LUNCH": "1:40pm - 2:15pm"},
-        {"CRT LAB (IT-207)": "2:15pm - 4:15pm"}
+        {"PW-I (Dr.CHS,MBD,KES) CE-CB01": "2:15pm - 4:15pm"}
     ],
     "Wed": [
-        {"OE-I ORT / SSIP / DM (IT-211/IT-207/CS-205)": "9:30am - 10:30am"},
-        {"PE-III CC (CS-205)": "10:30am - 11:30am"},
+        {"IOT (CHS) (CE-IT-203)": "9:30am - 10:30am"},
+        {"OE-II (Dr.MKR) (CE-IT-203)": "10:30am - 11:30am"},
         {"10 mins Break": "11:30am - 11:40am"},
-        {"ML (IT-207)": "11:40am - 12:40pm"},
-        {"CN (IT-207)": "12:40pm - 1:40pm"},
+        {"PW-I (Dr.BV,KES) CE-CB01": "11:40am - 1:40pm"},
         {"LUNCH": "1:40pm - 2:15pm"},
-        {"BDA (CS-205)": "2:15pm - 3:15pm"},
-        {"IC (CS-205)": "3:15pm - 4:15pm"}
+        {"NS (Dr.CHS) (CE-IT-213)": "2:15pm - 3:15pm"},
+        {"PE-IV (KRM,MBD) (CE-IT-202,212)": "3:15pm - 4:15pm"}
     ],
     "Thu": [
-       { "CRT (CS-205)": "9:30am - 11:30am"},
-       { "10 mins Break": "11:30am - 11:40am"},
-       { "MP-II (IT-207)": "11:40am - 1:40pm"},
+        {"PW-I (Dr.BV,KES) (CE-IT-213)": "9:30am - 11:30am"},
+        {"10 mins Break": "11:30am - 11:40am"},
+        {"IOT LAB(CHS,SM)(CE-IT-18) / CN&NS LAB(Dr.CHS,DK) (CE-IT-211)": "11:40am - 1:40pm"},
         {"LUNCH": "1:40pm - 2:15pm"},
-       { "OE-I ORT / SSIP / DM (IT-211/IT-207/CS-205)": "2:15pm - 3:15pm"},
-       { "PE-III CC (CS-205)": "3:15pm - 4:15pm"}
+        {"PE-VI (NNL,PSS) (CE-IT-202,212)": "2:15pm - 3:15pm"},
+        {"PE-V (Dr.BV,DK) (CE-IT-202,212)": "3:15pm - 4:15pm"}
     ],
     "Fri": [
-       { "IC (CS-205)": "9:30am - 10:30am"},
-       { "ES (CS-205)": "10:30am - 11:30am"},
-       { "10 mins Break": "11:30am - 11:40am"},
-       { "DEVOPS LAB (IT-207)": "11:40am - 1:40pm"},
-       { "LUNCH": "1:40pm - 2:15pm"},
-       { "OE-I ORT / SSIP / DM (IT-211/IT-207/CS-205)": "2:15pm - 3:15pm"},
-       { "PE-III CC (CS-205)": "3:15pm - 4:15pm"}
+        {"IOT (CHS) (CE-IT-213)": "9:30am - 10:30am"},
+        {"NS (Dr.CHS) (CE-IT-213)": "10:30am - 11:30am"},
+        {"10 mins Break": "11:30am - 11:40am"},
+        {"PE-V (Dr.BV,DK) (CE-IT-202,212)": "11:40am - 12:40pm"},
+        {"PE-VI (NNL,PSS) (CE-IT-202,212)": "12:40pm - 1:40pm"},
+        {"LUNCH": "1:40pm - 2:15pm"},
+        {"OE-III (CE-B01)": "2:15pm - 3:15pm"},
+        {"COUNSELLING (CE-IT-203)": "3:15pm - 4:15pm"}
     ],
     "Sat": [
-        {"CN (CS-205)": "9:30am - 10:30am"},
-       { "ML (CS-205)": "10:30am - 11:30am"},
+        {"LIBRARY(SR)": "9:30am - 10:30am"},
+        {"SPORTS(PVG)": "10:30am - 11:30am"},
         {"10 mins Break": "11:30am - 11:40am"},
-       { "DEVOPS LAB (IT-207)": "11:40am - 1:40pm"},
-       { "LUNCH": "1:40pm - 2:15pm"},
-       { "BDA (CS-205)": "2:15pm - 3:15pm"},
-       { "ES (CS-205)": "3:15pm - 4:15pm"}
+        {"OE-II (Dr.MKR) (CE-IT-213)": "11:40am - 12:40pm"},
+        {"PE-IV (KRM,MBD) (CE-IT-213,201)": "12:40pm - 1:40pm"},
+        {"LUNCH": "1:40pm - 2:15pm"},
+        {"****": "2:15pm - 4:15pm"}
     ],
     "Sun": [
-       { "Sunday": "Sunday"}
+        {"Sunday": "Sunday"}
     ]
 }
